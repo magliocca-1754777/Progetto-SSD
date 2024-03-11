@@ -1,0 +1,10 @@
+package it.uniroma2.cap.events;
+
+public enum EventType {
+	STARTING_REQUEST,
+	PRODUCTION_COMPONENT_M,
+	VEHICLE_ASSEMBLATION,
+	DELIVERY_COMPONENT,
+	SEND_REPORT,
+	RECEIVE_REPORT_M
+}
